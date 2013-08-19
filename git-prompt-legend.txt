@@ -1,0 +1,18 @@
+Lightning Talk CodeFellows Resources
+
+
+
+
+
+
+********* git-prompt legend *********
+
+(*)   unstaged
+(+)   staged
+($)   stashed
+(%)   untracked files
+(<)   behind head
+(>)   ahead head
+(<>)  diverged head
+(=)   no difference
+(+/-) num. of commits behind or ahead
